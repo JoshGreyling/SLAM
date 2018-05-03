@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SLAM.iml" filepath="$PROJECT_DIR$/SLAM.iml" />
+      <module fileurl="file://C:\Users\Owner\Documents\Andriod\slam lecturer form\SLAM.iml" filepath="C:\Users\Owner\Documents\Andriod\slam lecturer form\SLAM.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Owner\Documents\Andriod\slam lecturer form\app\app.iml" filepath="C:\Users\Owner\Documents\Andriod\slam lecturer form\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/slam lecturer form.iml" filepath="$PROJECT_DIR$/.idea/slam lecturer form.iml" />
     </modules>
   </component>
 </project>
